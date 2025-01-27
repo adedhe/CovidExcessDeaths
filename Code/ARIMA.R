@@ -14,7 +14,7 @@ library(ggthemes)
 # Loading and preparing data ----
 
 # use totaldeaths_excessmort_prepandemic.csv or totaldeaths_excessmort.csv
-total.deaths <- read.csv("/Users/abhishekdedhe/Downloads/Communications_Biology/Revisions_Dec2023/Supporting_Files_Revisions/totaldeaths_excessmort_prepandemic.csv")
+total.deaths <- read.csv("/Users/.../totaldeaths_excessmort_prepandemic.csv")
 head(total.deaths)
 
 # Plotting monthly time series ----
